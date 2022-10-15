@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vanaerdealexis1@gmail.com
+	name = Alexis Van Aerde
